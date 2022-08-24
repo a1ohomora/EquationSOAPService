@@ -1,4 +1,4 @@
-1. Разархивировать архив в папку с IDE.
+1. Разархивировать архив в папку с IDE / скачать два проекта из репозиториев (EquationSOAPService и EquationRESTService).
 2. Открыть проект EquationSOAPService. В нём два модуля: EquationSOAPService и EquationRESTService.
 3. Запускаем плагины для генерации классов по XSD-файлу (jaxb2:xjc либо jaxb2:generate с помощью Maven).
 4. Запускаем сначала один, затем второй модуль, запуская класс SoapServiceApplication и EquationRestServiceApplication.
